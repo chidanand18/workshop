@@ -1,8 +1,14 @@
-Student Management System
+# Student Management System
 
 This is a Python program to manage student records.
 
-Features:
+## Features
 - Add Student
 - View Students
 - Search Student by Roll Number
+
+## Technologies Used
+- Python
+
+## Author
+Chidanand Parashetti
